@@ -206,7 +206,7 @@
     <aside class="sidebar">
       <div class="photo-card" aria-hidden="false">
 
-        <img src="https://im.ge/i/d67a7142-00fa-4ed9-855c-336c52c73935.ntN8Aq" alt="Profile photo" />
+        <img src="https://im.ge/i/d67a7142-00fa-4ed9-855c-336c52c73935.ntN8Aq" alt=" My Profile Picture" />
       </div>
 
       <div class="contact">
