@@ -115,6 +115,7 @@
       align-items:flex-start;
       gap:12px;
     }
+    
     .name-block{
       display:flex;
       flex-direction:column;
@@ -125,6 +126,7 @@
       font-size:28px;
       letter-spacing:1px;
     }
+
     .jobtitle{
       margin:0;
       font-weight:600;
@@ -206,7 +208,7 @@
     <aside class="sidebar">
       <div class="photo-card" aria-hidden="false">
 
-        <img src="https://im.ge/i/d67a7142-00fa-4ed9-855c-336c52c73935.ntN8Aq" alt=" My Profile Picture" />
+        <img src=""/>
       </div>
 
       <div class="contact">
