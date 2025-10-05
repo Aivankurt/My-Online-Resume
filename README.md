@@ -7,6 +7,7 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
+
   <style>
     :root{
       --accent: #3cc4c9; 
@@ -20,6 +21,7 @@
     }
 
 
+    
     *{box-sizing:border-box}
     html,body{height:100%}
     body{
@@ -85,8 +87,8 @@
       border:1px solid rgba(0,0,0,0.04);
     }
 
-
     .contact .item{ display:flex; gap:10px; align-items:flex-start; margin-bottom:10px; color:var(--muted); font-size:14px }
+    
     .contact .item svg{ width:18px; height:18px; margin-top:2px; opacity:0.85 }
 
     h3.section-title{
@@ -95,7 +97,6 @@
       letter-spacing:0.6px;
       color:#111;
     }
-
 
     .muted { color:var(--muted); font-size:14px; }
 
@@ -107,7 +108,6 @@
       gap:18px;
       min-width:0;
     }
-
 
     .header{
       display:flex;
@@ -149,8 +149,10 @@
       border-radius:6px;
       border:1px solid rgba(0,0,0,0.04);
     }
+    
     .job{
       margin-bottom:14px;
+      
     }
     .job h4{ margin:0 0 6px 0; font-size:16px }
     .job .period { font-size:13px; color:var(--muted); margin-bottom:8px }
